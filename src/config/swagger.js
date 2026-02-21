@@ -8,6 +8,10 @@ const options = {
       version: "1.0.0",
       description:
         "A clean RESTful CRUD API for user management, built with Express and SQLite following MVC architecture.",
+      contact: {
+        name: "Serkanby",
+        url: "https://serkanbayraktar.com/",
+      },
     },
     servers: [
       {

@@ -12,6 +12,11 @@ app.get("/", (req, res) => {
   res.json({
     message: "CRUD User API",
     version: "1.0.0",
+    author: {
+      name: "Serkanby",
+      website: "https://serkanbayraktar.com/",
+      github: "https://github.com/Serkanbyx",
+    },
     endpoints: {
       users: "/users",
       docs: "/api-docs",
