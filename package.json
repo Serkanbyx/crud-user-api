@@ -15,7 +15,10 @@
     "sqlite",
     "crud"
   ],
-  "author": "",
+  "author": {
+    "name": "Serkanby",
+    "url": "https://serkanbayraktar.com/"
+  },
   "license": "ISC",
   "engines": {
     "node": "22.x"
